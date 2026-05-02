@@ -2,5 +2,5 @@
 
 
 ```sh
-bash -c "$(curl -fsLs https://gitlab.com/qwerty2501gl/bootstrap/-/raw/main/bootstrap.sh)"
+bash -c "$(curl -fsLs https://raw.githubusercontent.com/qwerty2501gl/bootstrap/refs/heads/main/bootstrap.sh)"
 ```
